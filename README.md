@@ -1,4 +1,4 @@
-### https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black Задачи на алгоритмы и структуры данных из [Leetcode](https://leetcode.com/u/vorobyevaad/)
+### <img src="[{BadgeURLHere}](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)" /> Задачи на алгоритмы и структуры данных из [Leetcode](https://leetcode.com/u/vorobyevaad/)
 
 <br>
   
